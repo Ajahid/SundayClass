@@ -8,5 +8,11 @@ public class SundayClass {
 		// This is Sunday practice class
 		
 	}
+	
+	public static void methodZ(){
+		
+	System.out.println();	
+		
+	}
 
 }
