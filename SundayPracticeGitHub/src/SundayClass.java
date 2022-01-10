@@ -1,4 +1,4 @@
-
+ 
 public class SundayClass {
 
 	public static void main(String[] args) {
